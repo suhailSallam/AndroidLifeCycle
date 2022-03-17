@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidLifeCycle</string>
+    <string name="content_desc">Activity Life Cycle Image</string>
+</resources>
